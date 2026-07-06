@@ -4,7 +4,7 @@ This project helped me improve my understanding of how to turn raw data into mea
 
 Excited to share that I have completed the Tata Technologies Data Visualisation: Empowering Business with Effective Insights Virtual Experience Program on Forage. 📊
 
-In this project, I worked on:
+## In this project, I worked on:
 
 1-Understanding the business questions and stakeholder requirements
 
@@ -16,7 +16,7 @@ In this project, I worked on:
 
 explaining findings in a business-friendly and easy-to-understand format
 
-Tools & Skills Used:
+## Tools & Skills Used:
 
 Tableau | Data Visualization | Dashboard Building | Business Insights | Retail Analytics | Data Storytelling
 
