@@ -1,11 +1,8 @@
-# ONLINE_STORE_ANALYSIS_DASHBOARD
-
+# 📊 Online Retail Store Analysis | Tableau Dashboard
 
 Excited to share that I have completed the Tata Technologies Data Visualisation: Empowering Business with Effective Insights Virtual Experience Program on Forage. 📊
 
 Interactive Tableau dashboard for Online Retail Store Analysis, delivering executive-level insights on revenue trends, customer performance, country-wise demand, and business growth using data visualization.
-
-# 📊 Online Retail Store Analysis | Tableau Dashboard
 
 ## 📌 Project Overview
 
