@@ -140,10 +140,10 @@ Develop an executive dashboard that enables leadership to:
 
 Include screenshots of:
 
-- Executive Dashboard
+- Tableau Dashboard
 - CEO & CMO Business Questions
-- Monthly Revenue Trend
-- Country-wise Revenue Analysis
+- Right Charts For Visualization
+  
 
 ---
 
