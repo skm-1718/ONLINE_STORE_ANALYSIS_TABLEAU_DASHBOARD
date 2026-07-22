@@ -3,6 +3,8 @@
 
 Excited to share that I have completed the Tata Technologies Data Visualisation: Empowering Business with Effective Insights Virtual Experience Program on Forage. 📊
 
+Interactive Tableau dashboard for Online Retail Store Analysis, delivering executive-level insights on revenue trends, customer performance, country-wise demand, and business growth using data visualization.
+
 ## In this project, I worked on:
 
 1-Understanding the business questions and stakeholder requirements
